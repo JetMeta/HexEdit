@@ -1,5 +1,3 @@
----
-
 # Mod
 
 ## Install
@@ -9,16 +7,12 @@
 
 ### 2023-04-20
 #### 2.0.6.50
-- x86 & x64
 - fix some crash issues
 - fix some bookmark management issues
-  - know issues : bookmark color opt is chaotic, but harmless
+  - known issues : bookmark color opt is chaotic, but harmless
 
 ## Download
 [Release](https://github.com/JetNpp/HexEdit/tree/master/bin "Release")
-
-
----
 
 # ORIG
 Catch22 HexEdit
