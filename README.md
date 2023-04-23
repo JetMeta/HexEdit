@@ -12,7 +12,7 @@
   - known issues : bookmark color opt is chaotic, but harmless
 
 ## Download
-[Release](https://github.com/JetNpp/HexEdit/tree/master/bin "Release")
+[Release](https://github.com/JetRelease/HexEdit/tree/master/bin "Release")
 
 # ORIG
 Catch22 HexEdit
